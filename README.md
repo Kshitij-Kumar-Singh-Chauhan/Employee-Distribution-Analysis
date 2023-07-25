@@ -7,7 +7,9 @@
   </a>
 </div>
  
-<p align="center">**Plotwork** is an HR Analytics tool to help human resource professionals analyze and manage their workforce more effectively.</p>
+<div align="center"> 
+  **Plotwork** is an HR Analytics tool to help human resource professionals analyze and manage their workforce more effectively.
+</div>
 
 <p align="center">
 <img src="https://github.com/Kshitij-Kumar-Singh-Chauhan/Plotwork/blob/main/Preview/TechStack.png" align="center" width="550">
