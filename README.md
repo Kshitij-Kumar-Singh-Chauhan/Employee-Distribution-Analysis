@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Kshitij-Kumar-Singh-Chauhan/Plotwork">
-    <img src="Preview/logo.png" alt="Logo" width="150">
+    <img src="Preview/logo.png" alt="Logo" height="130">
   </a>
 </div>
  
@@ -38,6 +38,8 @@ Are you struggling to make sense of your company's employee data? Do you need a 
 - 🌐 **Scale with Ease**: Whether you have a small team or a large multinational workforce, Project Plotwork is designed to scale according to your needs.
 - 🎯 **Data-driven Decision Making**: Empower your HR team with data-driven decision-making capabilities, making your organization more agile and competitive.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Data Preparation
 We perform a series of essential data preparation steps to ensure your employee data is in top-notch shape. Below are some key steps we take during the data preparation phase of Plotwork:
 
@@ -61,6 +63,8 @@ We perform a series of essential data preparation steps to ensure your employee 
 
 With meticulous data preparation, Plotwork empowers you with accurate and meaningful HR insights through our interactive dashboard.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Observations
 Following are some unraveled intriguing insights from the Sample USA Employee data, providing a deeper understanding of workforce dynamics:
 1. **Gender Diversity:** The employee population is predominantly male, but Project Plotwork has laid bare the gender distribution across departments, enabling a closer look at representation and balance.
@@ -80,6 +84,8 @@ Following are some unraveled intriguing insights from the Sample USA Employee da
 8. **Departmental Tenure:** Gain a nuanced perspective on the average tenure for each department, with Legal and Auditing boasting the highest, and Services, Sales, and Marketing showcasing their unique workforce dynamics.
 
 > **Note:** These findings are just the tip of the iceberg, as our dynamic dashboard offers a plethora of customizable insights and visualizations. We encourage you to explore, analyze, and uncover new dimensions of your workforce with Plotwork.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Dashboard Preview
 Plotwork's dashboard helps uncover key trends, demographic distributions, and departmental analytics through interactive charts and graphs. From gender diversity to turnover rates, the Plotwork dashboard presents data-driven decision-making at your fingertips.
