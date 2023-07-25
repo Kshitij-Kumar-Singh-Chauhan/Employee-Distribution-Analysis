@@ -8,7 +8,7 @@
 </div>
  
 <div align="center"> 
-  **Plotwork** is an HR Analytics tool to help human resource professionals analyze and manage their workforce more effectively.
+  <b>Plotwork</b> is an HR Analytics tool to help human resource professionals analyze and manage their workforce more effectively.
 </div>
 
 <p align="center">
