@@ -3,10 +3,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/Kshitij-Kumar-Singh-Chauhan/Plotwork">
-    <img src="Preview/logo.png" alt="Logo" width="80" height="80">
+    <img src="Preview/logo.png" alt="Logo" width="150">
   </a>
 </div>
- <h1 align="center">Plotwork</h1>
  
 **Plotwork** is an HR Analytics tool to help human resource professionals analyze and manage their workforce more effectively.
 
@@ -96,7 +95,7 @@ Plotwork's dashboard helps uncover key trends, demographic distributions, and de
 Don't wait any longer. Take control of your HR analytics today with Project Plotwork. Happy analyzing! 😄
 
 *Please feel free to contribute, raise issues, and provide feedback. Together, let's make HR analytics a breeze!*
-<br>
+<br><br>
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
